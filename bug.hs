@@ -1,0 +1,1 @@
+This code attempts to use the `map` function with a function that expects a list as input, but it passes it individual elements from the list. This results in a type error.

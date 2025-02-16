@@ -1,0 +1,1 @@
+This repository contains a simple Haskell program demonstrating a common type error encountered when using the `map` function. The error arises from attempting to apply a function that expects a list as input to individual list elements.  The solution demonstrates how to correctly structure the function to handle list inputs in conjunction with the `map` function.
